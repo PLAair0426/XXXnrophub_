@@ -1,2 +1,1 @@
-# XXXnrophub_
-You can hang out with any gays you like
+This is a test repository for my initial study.
